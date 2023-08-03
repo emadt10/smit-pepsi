@@ -1,0 +1,13 @@
+p.one {
+    height: 150px;
+    width: 150px;
+    border: solid;
+    border-color: blue;
+    overflow: hidden;
+}
+    p.two {
+        height: 150px;
+        width: 150px;
+        border: solid;
+        border-color: chocolate;
+    }
